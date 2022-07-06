@@ -19,7 +19,7 @@ Before you begin, please make sure, that the following mandatory criteria are me
 - [x] a computer with installed Terraform environment including CSP provider and configuration.
 - [x] you have an account and can use at least one of the following CSP: AWS, Azure or GCP
 - [x] you have an existing SD-WAN network with vManage, vBond and vSmart (SD-WAN Controllers) running the following software versions:
-  >| CSP   | Controller |
+  | CSP   | Controller |
   | :----: | :----:     |
   | AWS   |  20.3      |
   | Azure |  20.4      |  
